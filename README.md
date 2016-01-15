@@ -6,6 +6,7 @@
 如需滑动到顶部时才出现导航栏，可参考使用scrollView的contentOffset结合navagationBar的transform来实现。
 
 
-
-
 ![Alt Text](https://raw.githubusercontent.com/liuzhiyi1992/DynamicNavigationBar/master/DynamicNavigationBarGif.gif)
+
+
+You can play a demo with [appetize.io](https://appetize.io/app/kfdd5wdjmggbtqd2jmdhmha92r?device=iphone5s&scale=75&orientation=portrait&osVersion=9.2)
